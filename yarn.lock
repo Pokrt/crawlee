@@ -557,7 +557,7 @@ __metadata:
     "@crawlee/http": "npm:3.11.1"
     "@crawlee/types": "npm:3.11.1"
     "@crawlee/utils": "npm:3.11.1"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     htmlparser2: "npm:^9.0.0"
     tslib: "npm:^2.4.0"
   languageName: unknown
@@ -620,7 +620,7 @@ __metadata:
     "@crawlee/types": "npm:3.11.1"
     "@crawlee/utils": "npm:3.11.1"
     "@types/content-type": "npm:^1.1.5"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     content-type: "npm:^1.0.4"
     got-scraping: "npm:^4.0.0"
     iconv-lite: "npm:^0.6.3"
@@ -641,7 +641,7 @@ __metadata:
     "@crawlee/types": "npm:3.11.1"
     "@crawlee/utils": "npm:3.11.1"
     "@types/jsdom": "npm:^21.0.0"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     jsdom: "npm:^24.0.0"
     ow: "npm:^0.28.2"
     tslib: "npm:^2.4.0"
@@ -691,7 +691,7 @@ __metadata:
     "@crawlee/core": "npm:3.11.1"
     "@crawlee/types": "npm:3.11.1"
     "@crawlee/utils": "npm:3.11.1"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     idcac-playwright: "npm:^0.1.2"
     jquery: "npm:^3.6.0"
     lodash.isequal: "npm:^4.5.0"
@@ -718,7 +718,7 @@ __metadata:
     "@crawlee/browser-pool": "npm:3.11.1"
     "@crawlee/types": "npm:3.11.1"
     "@crawlee/utils": "npm:3.11.1"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     devtools-protocol: "npm:*"
     idcac-playwright: "npm:^0.1.2"
     jquery: "npm:^3.6.0"
@@ -741,9 +741,9 @@ __metadata:
     "@apify/tsconfig": "npm:^0.1.0"
     "@biomejs/biome": "npm:^1.7.3"
     "@commitlint/config-conventional": "npm:^19.0.0"
-    "@playwright/browser-chromium": "npm:1.44.1"
-    "@playwright/browser-firefox": "npm:1.44.1"
-    "@playwright/browser-webkit": "npm:1.44.1"
+    "@playwright/browser-chromium": "npm:1.46.1"
+    "@playwright/browser-firefox": "npm:1.46.1"
+    "@playwright/browser-webkit": "npm:1.46.1"
     "@types/content-type": "npm:^1.1.5"
     "@types/deep-equal": "npm:^1.0.1"
     "@types/domhandler": "npm:^2.4.2"
@@ -785,7 +785,7 @@ __metadata:
     lerna: "npm:^8.0.0"
     lint-staged: "npm:^15.0.0"
     nock: "npm:^13.4.0"
-    playwright: "npm:1.44.1"
+    playwright: "npm:1.46.1"
     portastic: "npm:^1.0.1"
     proxy: "npm:^1.0.2"
     puppeteer: "npm:22.12.0"
@@ -827,7 +827,7 @@ __metadata:
     "@crawlee/types": "npm:3.11.1"
     "@types/sax": "npm:^1.2.7"
     "@types/whatwg-mimetype": "npm:^3.0.2"
-    cheerio: "npm:1.0.0-rc.12"
+    cheerio: "npm:1.0.0"
     file-type: "npm:^19.0.0"
     got-scraping: "npm:^4.0.3"
     ow: "npm:^0.28.1"
@@ -1930,30 +1930,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@playwright/browser-chromium@npm:1.44.1":
-  version: 1.44.1
-  resolution: "@playwright/browser-chromium@npm:1.44.1"
+"@playwright/browser-chromium@npm:1.46.1":
+  version: 1.46.1
+  resolution: "@playwright/browser-chromium@npm:1.46.1"
   dependencies:
-    playwright-core: "npm:1.44.1"
-  checksum: 10c0/fd8477472138c39e981a4f13ea9bb0bd746172342159776196fae4b2ccfc8059160016fd9fe753143594322f82c279df6f9ad65c14490c8e32a53c287458d771
+    playwright-core: "npm:1.46.1"
+  checksum: 10c0/74e67154b02b875c2824aff3d488dbc928fda6d2c52b84a5bd54ee7133aec078ed38505f895ed7007e4989cd989c2997db115bc8fe4cc3bbdacef6a2e1e35241
   languageName: node
   linkType: hard
 
-"@playwright/browser-firefox@npm:1.44.1":
-  version: 1.44.1
-  resolution: "@playwright/browser-firefox@npm:1.44.1"
+"@playwright/browser-firefox@npm:1.46.1":
+  version: 1.46.1
+  resolution: "@playwright/browser-firefox@npm:1.46.1"
   dependencies:
-    playwright-core: "npm:1.44.1"
-  checksum: 10c0/c8936eedf57eca1fbbf6196189a88ff34b8ef3d4ff679a6ecf3a522594343a778354e46477e1f606762f85f8bfbfbb3a891295c8f274389747deef605f0b0eca
+    playwright-core: "npm:1.46.1"
+  checksum: 10c0/5d9a4940f0ab571f4c0ac2bd1ec27bb149437ac66acac9932ae2f4803bc0f3f5690d4d8b16bf95bab320cc6a2a8bef93bd03c0f4598c5738cfdc23b9cbe2f64d
   languageName: node
   linkType: hard
 
-"@playwright/browser-webkit@npm:1.44.1":
-  version: 1.44.1
-  resolution: "@playwright/browser-webkit@npm:1.44.1"
+"@playwright/browser-webkit@npm:1.46.1":
+  version: 1.46.1
+  resolution: "@playwright/browser-webkit@npm:1.46.1"
   dependencies:
-    playwright-core: "npm:1.44.1"
-  checksum: 10c0/754a403d921f206898f2b66dede75bae087a8fcccf4d4f5efc7d3f160e4bacc33574dce9dad2213ed21359ec13fc2dc37a5e640ba8396aa45d214ee86d77da80
+    playwright-core: "npm:1.46.1"
+  checksum: 10c0/c6a9dd7a62f2bf82ef35307247acbe4ee79ad8bf4406545ff40655542f1c50c96b329eadd91d202c0fffa0b04fd4a25a4e25af65595c19aaa79bfec04194067f
   languageName: node
   linkType: hard
 
@@ -3855,18 +3855,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cheerio@npm:1.0.0-rc.12":
-  version: 1.0.0-rc.12
-  resolution: "cheerio@npm:1.0.0-rc.12"
+"cheerio@npm:1.0.0":
+  version: 1.0.0
+  resolution: "cheerio@npm:1.0.0"
   dependencies:
     cheerio-select: "npm:^2.1.0"
     dom-serializer: "npm:^2.0.0"
     domhandler: "npm:^5.0.3"
-    domutils: "npm:^3.0.1"
-    htmlparser2: "npm:^8.0.1"
-    parse5: "npm:^7.0.0"
+    domutils: "npm:^3.1.0"
+    encoding-sniffer: "npm:^0.2.0"
+    htmlparser2: "npm:^9.1.0"
+    parse5: "npm:^7.1.2"
     parse5-htmlparser2-tree-adapter: "npm:^7.0.0"
-  checksum: 10c0/c85d2f2461e3f024345b78e0bb16ad8e41492356210470dd1e7d5a91391da9fcf6c0a7cb48a9ba8820330153f0cedb4d0a60c7af15d96ecdb3092299b9d9c0cc
+    parse5-parser-stream: "npm:^7.1.2"
+    undici: "npm:^6.19.5"
+    whatwg-mimetype: "npm:^4.0.0"
+  checksum: 10c0/d0e16925d9c36c879edfaef1c0244c866375a4c7b8d6ccd7ae0ad42da7d26263ea1a3c17b9a1aa5965918deeff2d40ac2e7223824f8e6eca972df3b81316a09f
   languageName: node
   linkType: hard
 
@@ -4980,6 +4984,16 @@ __metadata:
   version: 1.0.2
   resolution: "encodeurl@npm:1.0.2"
   checksum: 10c0/f6c2387379a9e7c1156c1c3d4f9cb7bb11cf16dd4c1682e1f6746512564b053df5781029b6061296832b59fb22f459dbe250386d217c2f6e203601abb2ee0bec
+  languageName: node
+  linkType: hard
+
+"encoding-sniffer@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "encoding-sniffer@npm:0.2.0"
+  dependencies:
+    iconv-lite: "npm:^0.6.3"
+    whatwg-encoding: "npm:^3.1.1"
+  checksum: 10c0/b312e0d67f339bec44e021e5210ee8ee90d7b8f9975eb2c79a36fd467eb07709e88dcf62ee20f62ee0d74a13874307d99557852a2de9b448f1e3fb991fc68257
   languageName: node
   linkType: hard
 
@@ -6909,18 +6923,6 @@ __metadata:
   version: 3.0.3
   resolution: "html-escaper@npm:3.0.3"
   checksum: 10c0/a042fa4139127ff7546513e90ea39cc9161a1938ce90122dbc4260d4b7252c9aa8452f4509c0c2889901b8ae9a8699179150f1f99d3f80bcf7317573c5f08f4e
-  languageName: node
-  linkType: hard
-
-"htmlparser2@npm:^8.0.1":
-  version: 8.0.2
-  resolution: "htmlparser2@npm:8.0.2"
-  dependencies:
-    domelementtype: "npm:^2.3.0"
-    domhandler: "npm:^5.0.3"
-    domutils: "npm:^3.0.1"
-    entities: "npm:^4.4.0"
-  checksum: 10c0/609cca85886d0bf2c9a5db8c6926a89f3764596877492e2caa7a25a789af4065bc6ee2cdc81807fe6b1d03a87bf8a373b5a754528a4cc05146b713c20575aab4
   languageName: node
   linkType: hard
 
@@ -9910,6 +9912,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"parse5-parser-stream@npm:^7.1.2":
+  version: 7.1.2
+  resolution: "parse5-parser-stream@npm:7.1.2"
+  dependencies:
+    parse5: "npm:^7.0.0"
+  checksum: 10c0/e236c61000d38ecad369e725a48506b051cebad8abb00e6d4e8bff7aa85c183820fcb45db1559cc90955bdbbdbd665ea94c41259594e74566fff411478dc7fcb
+  languageName: node
+  linkType: hard
+
 "parse5@npm:^7.0.0, parse5@npm:^7.1.2":
   version: 7.1.2
   resolution: "parse5@npm:7.1.2"
@@ -10122,27 +10133,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"playwright-core@npm:1.44.1":
-  version: 1.44.1
-  resolution: "playwright-core@npm:1.44.1"
+"playwright-core@npm:1.46.1":
+  version: 1.46.1
+  resolution: "playwright-core@npm:1.46.1"
   bin:
     playwright-core: cli.js
-  checksum: 10c0/6ffa3a04822b3df86d7f47a97e4f20318c0c50868ba4311820e6626ecadaab1424fbd0a3d01f0b4228adc0c781115e44b801742a4970b88739f804d82f142d68
+  checksum: 10c0/98e48e271caccaa6c54b3c591cbddbef36a679eef011b38e2af11fbaba0aab1f997b45f9207c4099468a0c79047a1e879bbd9e81bd880ae24501a0ee3c7a33c7
   languageName: node
   linkType: hard
 
-"playwright@npm:1.44.1":
-  version: 1.44.1
-  resolution: "playwright@npm:1.44.1"
+"playwright@npm:1.46.1":
+  version: 1.46.1
+  resolution: "playwright@npm:1.46.1"
   dependencies:
     fsevents: "npm:2.3.2"
-    playwright-core: "npm:1.44.1"
+    playwright-core: "npm:1.46.1"
   dependenciesMeta:
     fsevents:
       optional: true
   bin:
     playwright: cli.js
-  checksum: 10c0/de827d17746b18ae2ec67d510a640d8ceebf8ee8e3d8399bccffa83b76a967498ca377777e4e6a1daaef4b3c86cb2c44c7468de53d2d915acc61b3b89c032738
+  checksum: 10c0/2a328a2073313136192d74b48b981d9aeb1d4cc54926ed235f638c875f9de59c41370bb20bb2d8cf30126c52c6e25cc02db21ffafeb487c92c84c52c84846912
   languageName: node
   linkType: hard
 
@@ -12337,6 +12348,13 @@ __metadata:
   version: 6.19.8
   resolution: "undici-types@npm:6.19.8"
   checksum: 10c0/078afa5990fba110f6824823ace86073b4638f1d5112ee26e790155f481f2a868cc3e0615505b6f4282bdf74a3d8caad715fd809e870c2bb0704e3ea6082f344
+  languageName: node
+  linkType: hard
+
+"undici@npm:^6.19.5":
+  version: 6.19.8
+  resolution: "undici@npm:6.19.8"
+  checksum: 10c0/07fd8520bce7e34ea29c07ef0de27b734183042cdb4e2f1262cd1fb9b755a6b04ff2471040395dfb1770fb7786069a97c5178bcf706b80a34075994f46feb37c
   languageName: node
   linkType: hard
 
